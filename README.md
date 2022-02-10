@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ivan Markić
+- 👀 I’m interested in Machine learning
+- 🌱 I’m currently learning Machine learning and Python web
+- 📫 Reach me out on imarkic10@gmail.com
